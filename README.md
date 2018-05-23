@@ -17,7 +17,7 @@ This projects helps programmers understand the role of a simple web server has t
 ### Instruction
 <ol>
 	<li> Save all 3 files "media.py", "entertainment_center.py", "fresh_tomatoes.py" in the same folder
-    <li> Open Media.py in an editor and run.
+    <li> Open "entertainment_center.py" in an editor and run.
     <li> Optional: User can personalise their choice of movies by editing instances.
 
 </ol>
